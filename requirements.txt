@@ -1,0 +1,6 @@
+selenium-wire==5.1.0
+setuptools==80.9.0
+blinker==1.6.2
+python-dotenv==1.1.1
+pandas==2.3.0
+numpy==2.0.2
