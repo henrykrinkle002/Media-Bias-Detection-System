@@ -1,50 +1,73 @@
+Got it — here's the same README with **no emojis**, just clean, professional Markdown formatting that renders well on GitHub:
 
-NEXIS DATABASE
+---
 
-Usage
+# NEXIS DATABASE
 
-Clone the repo
+## Usage
 
-Add your Nexis Uni login credentials to a .env file (Email and PASSWORD)
+1. **Clone the repo**
+2. **Add your Nexis Uni login credentials** to a `.env` file:
 
-Install dependencies from requirements.txt
+   ```
+   Email=your_username
+   PASSWORD=your_password
+   ```
+3. **Install dependencies** from `requirements.txt`:
 
-Run python selena.py to start the scraper
-(python selena.py)
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Run** the scraper:
 
-Output CSVs will be saved with article metadata for downstream bias detection tasks
+   ```bash
+   python selena.py
+   ```
+5. **Output**:
+   Article metadata is saved to a CSV file (`nexis_articles2.csv`) for downstream use in bias detection tasks.
 
+---
 
-Features
+## Features
 
-Automated Login
-Credentials are securely loaded from a .env file using dotenv (Email and PASSWORD keys).
+* **Automated Login**
+  Credentials are securely loaded from a `.env` file using `dotenv`. Requires `Email` and `PASSWORD` keys.
 
-Query Batching
-Combines event_keywords and actor_keywords in small batches to run logical AND searches like:
-("War crimes" OR "IDPs") AND ("ENDF" OR "Abiy Ahmed").
+* **Query Batching**
+  Dynamically generates logical AND queries by combining subsets of `event_keywords` and `actor_keywords`:
 
-Fully Automated Interaction
-Handles JavaScript-heavy elements, waits for spinners, navigates 
-pagination, and retries when elements fail.
+  ```
+  ("War crimes" OR "IDPs") AND ("ENDF" OR "Abiy Ahmed")
+  ```
 
-Rich Metadata Extraction
-Extracts:
-title
-author
-source
-publication date
-article URL
-query used
+* **Fully Automated Interaction**
+  Handles JavaScript-heavy elements. Includes:
 
-Incremental CSV Storage
-Results are written to nexis_articles2.csv as they’re scraped — no risk of losing data mid-batch.
+  * Page load spinners
+  * Safe click logic with retries
+  * Pagination navigation
+  * Dynamic content handling
 
-Batch Logging
-Outputs batch-level success logs and error logs to batch_report.log
-Includes query info, count of articles collected, and warnings for empty results
+* **Rich Metadata Extraction**
+  Extracted fields include:
 
+  * `title`
+  * `author`
+  * `source`
+  * `publication date`
+  * `article URL`
+  * `search query used`
 
+* **Incremental CSV Storage**
+  Scraped articles are written incrementally to `nexis_articles2.csv` to ensure fault tolerance.
 
+* **Batch Logging**
+  Logs per-batch statistics to `batch_report.log`, including:
 
+  * Search query used
+  * Number of articles collected
+  * Warnings for empty or low-yield queries
 
+---
+
+Let me know if you also want a `requirements.txt`, a sample `.env`, or setup instructions for virtual environments.
