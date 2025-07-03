@@ -1,7 +1,3 @@
-Got it — here's the same README with **no emojis**, just clean, professional Markdown formatting that renders well on GitHub:
-
----
-
 # NEXIS DATABASE
 
 ## Usage
@@ -59,7 +55,7 @@ Got it — here's the same README with **no emojis**, just clean, professional M
   * `search query used`
 
 * **Incremental CSV Storage**
-  Scraped articles are written incrementally to `nexis_articles2.csv` to ensure fault tolerance.
+  Scraped articles are written incrementally to `nexis_articles2.csv`.
 
 * **Batch Logging**
   Logs per-batch statistics to `batch_report.log`, including:
@@ -67,7 +63,3 @@ Got it — here's the same README with **no emojis**, just clean, professional M
   * Search query used
   * Number of articles collected
   * Warnings for empty or low-yield queries
-
----
-
-Let me know if you also want a `requirements.txt`, a sample `.env`, or setup instructions for virtual environments.
