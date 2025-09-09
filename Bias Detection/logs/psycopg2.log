@@ -1,0 +1,542 @@
+2025-07-10 23:04:04,282 - INFO - The Main Database Creation goes into log file.
+
+2025-07-10 23:04:04,288 - INFO - Time Taken: 0.09711790084838867.
+2025-07-10 23:09:31,695 - INFO -  The temporary table Deletion updated on the log file.
+2025-07-10 23:09:31,696 - INFO - 
+Time Taken: 0.4274477958679199
+2025-07-10 23:09:31,957 - INFO -  The temporary table Insertion Successfully Updated on the log file.
+ Records Scanned: 20
+2025-07-10 23:09:31,957 - INFO - 
+Time Taken: 0.25795507431030273.
+2025-07-10 23:09:31,967 - INFO - Values Added Successfully into the Main Table!
+2025-07-10 23:09:31,970 - INFO - 
+Time Taken: 0.013233184814453125.
+2025-07-10 23:15:27,349 - INFO - Successfully Executed Count!
+2025-07-10 23:16:04,256 - WARNING - ⚠️ Failed to load cookies: Message: invalid cookie domain: Cookie 'domain' mismatch
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x0000000105325213 chromedriver + 1143315
+4   chromedriver                        0x00000001052ebcc2 chromedriver + 908482
+5   chromedriver                        0x000000010531318c chromedriver + 1069452
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,580 - INFO - ✅ Saved cookies for future use.
+2025-07-10 23:16:47,672 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=f64555d2-e77d-40a2-be14-0e8ecec178eb&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6412-N391-JCNX-32TR-00000-00&pddocid=urn%3AcontentItem%3A6412-N391-JCNX-32TR-00000-00&pdcontentcomponentid=473759&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr489&prid=f4baa7b5-66cc-4484-b994-22c36ec16765&_=1751328797898: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,677 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=672ad303-c842-4966-a6d1-cc17fe4e1816&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A62G6-GW81-DXMS-8269-00000-00&pddocid=urn%3AcontentItem%3A62G6-GW81-DXMS-8269-00000-00&pdcontentcomponentid=404625&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr120&prid=bb78bd4f-1d45-4b4d-a110-18b2d182ce64&_=1751305073199: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,680 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=4487e72d-c751-4d77-9aba-edcfd50c8a6e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A635K-CYJ1-JDJN-62PB-00000-00&pddocid=urn%3AcontentItem%3A635K-CYJ1-JDJN-62PB-00000-00&pdcontentcomponentid=407847&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr121&prid=bb78bd4f-1d45-4b4d-a110-18b2d182ce64&_=1751305141125: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,683 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=6b256526-8754-443f-88d3-8ed6da6cde0e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A640J-9071-JC14-403J-00000-00&pddocid=urn%3AcontentItem%3A640J-9071-JC14-403J-00000-00&pdcontentcomponentid=438157&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr122&prid=bb78bd4f-1d45-4b4d-a110-18b2d182ce64&_=1751305204994: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,687 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=f8079743-b5f5-4df1-8f2a-85163c80e1d1&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A616Y-3WG1-DY93-M08X-00000-00&pddocid=urn%3AcontentItem%3A616Y-3WG1-DY93-M08X-00000-00&pdcontentcomponentid=10903&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr249&prid=4db4e466-d0a9-4d35-8ec6-c975dc4f6db7&_=1751312942679: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,692 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=967e8da0-01cf-4ef1-aa3c-f2d50de27c58&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6377-PJ51-F12F-F3P2-00000-00&pddocid=urn%3AcontentItem%3A6377-PJ51-F12F-F3P2-00000-00&pdcontentcomponentid=427616&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr250&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313076022: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,697 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=de665065-f61f-4b06-b05a-9cfb32198373&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6188-HN51-JBKR-G0FY-00000-00&pddocid=urn%3AcontentItem%3A6188-HN51-JBKR-G0FY-00000-00&pdcontentcomponentid=10882&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr252&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313209915: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,700 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=61b51e21-ab4d-4515-9d00-cd4a08977fb4&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6189-H771-JBKR-G2CT-00000-00&pddocid=urn%3AcontentItem%3A6189-H771-JBKR-G2CT-00000-00&pdcontentcomponentid=10882&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr253&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313333650: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,702 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=94c175b4-7fd4-4961-a0b7-edbdbb423cdf&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A61F5-7NN1-JCNX-34B2-00000-00&pddocid=urn%3AcontentItem%3A61F5-7NN1-JCNX-34B2-00000-00&pdcontentcomponentid=300954&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr257&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313474157: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,708 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=d0e1ddc1-4e48-430d-b665-9ee233ed3832&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A618G-MG41-JBSS-S1DB-00000-00&pddocid=urn%3AcontentItem%3A618G-MG41-JBSS-S1DB-00000-00&pdcontentcomponentid=385157&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr258&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313597224: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,712 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=bd71af6e-8110-48db-ba08-54cb7a9a46a5&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A61G7-8521-JBJ4-20SS-00000-00&pddocid=urn%3AcontentItem%3A61G7-8521-JBJ4-20SS-00000-00&pdcontentcomponentid=361816&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr259&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313721340: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,720 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=42bbf6c9-3edc-4b81-85c6-37ea9c3c9608&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A631G-0P71-JBV1-X3J1-00000-00&pddocid=urn%3AcontentItem%3A631G-0P71-JBV1-X3J1-00000-00&pdcontentcomponentid=10903&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr260&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751313869439: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,723 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=ff4370f3-95c1-4f88-84a7-e288756b0029&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A65JX-V5C1-DYRV-31T1-00000-00&pddocid=urn%3AcontentItem%3A65JX-V5C1-DYRV-31T1-00000-00&pdcontentcomponentid=10962&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr261&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314002884: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,726 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=9cc315bb-1a3c-44ec-bd7e-c10d53749131&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6BWH-X2Y1-JDJN-616W-00000-00&pddocid=urn%3AcontentItem%3A6BWH-X2Y1-JDJN-616W-00000-00&pdcontentcomponentid=486611&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr262&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314137922: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,729 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=22944e03-8240-495a-868c-7db884328f91&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A66SD-B121-JCG7-817S-00000-00&pddocid=urn%3AcontentItem%3A66SD-B121-JCG7-817S-00000-00&pdcontentcomponentid=443607&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr263&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314262458: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,733 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=064b83ae-08f1-4953-8394-4b7369986ad7&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6029-YY01-DYRV-30R4-00000-00&pddocid=urn%3AcontentItem%3A6029-YY01-DYRV-30R4-00000-00&pdcontentcomponentid=10962&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr264&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314396631: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,737 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=919998ff-25ba-44e3-b1d2-e1e040df248b&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A631W-M5X1-DYTH-G4T5-00000-00&pddocid=urn%3AcontentItem%3A631W-M5X1-DYTH-G4T5-00000-00&pdcontentcomponentid=8058&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr265&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314537158: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,740 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=8d40237d-5ff4-4fec-8dbc-04e6d8d6bb52&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6913-2VR1-F11P-X0VM-00000-00&pddocid=urn%3AcontentItem%3A6913-2VR1-F11P-X0VM-00000-00&pdcontentcomponentid=486611&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr266&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314715110: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,743 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=e1efe108-b28d-4b0d-a412-25586abd8c0b&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A631B-8N41-DY93-M344-00000-00&pddocid=urn%3AcontentItem%3A631B-8N41-DY93-M344-00000-00&pdcontentcomponentid=10903&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr267&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314901197: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:47,746 - ERROR - ❌ Error fetching URL https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=7602c3bd-661b-4d76-9c60-f07f83937aea&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6FF0-TM23-S1XJ-00SD-00000-00&pddocid=urn%3AcontentItem%3A6FF0-TM23-S1XJ-00SD-00000-00&pdcontentcomponentid=468581&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr686&prid=f070fcc8-a436-4200-9c70-9e77a1b48d7c&_=1751280331566: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=138.0.7204.50)
+Stacktrace:
+0   chromedriver                        0x00000001057eb308 chromedriver + 6148872
+1   chromedriver                        0x00000001057e28ba chromedriver + 6113466
+2   chromedriver                        0x0000000105273e10 chromedriver + 417296
+3   chromedriver                        0x00000001052487d0 chromedriver + 239568
+4   chromedriver                        0x00000001052f3e98 chromedriver + 941720
+5   chromedriver                        0x0000000105312b3c chromedriver + 1067836
+6   chromedriver                        0x00000001052eba93 chromedriver + 907923
+7   chromedriver                        0x00000001052b80f7 chromedriver + 696567
+8   chromedriver                        0x00000001052b8d61 chromedriver + 699745
+9   chromedriver                        0x00000001057a8250 chromedriver + 5874256
+10  chromedriver                        0x00000001057ac289 chromedriver + 5890697
+11  chromedriver                        0x0000000105784022 chromedriver + 5726242
+12  chromedriver                        0x00000001057acbff chromedriver + 5893119
+13  chromedriver                        0x0000000105772d14 chromedriver + 5655828
+14  chromedriver                        0x00000001057cfde8 chromedriver + 6036968
+15  chromedriver                        0x00000001057cffb0 chromedriver + 6037424
+16  chromedriver                        0x00000001057e2451 chromedriver + 6112337
+17  libsystem_pthread.dylib             0x00007ff80925d4e1 _pthread_start + 125
+18  libsystem_pthread.dylib             0x00007ff809258f6b thread_start + 15
+
+2025-07-10 23:16:48,475 - INFO - 🛑 Driver session ended.
+2025-07-10 23:17:20,271 - WARNING - ⚠️ Failed to load cookies: 'NoneType' object is not iterable
+2025-07-10 23:18:07,374 - INFO - ✅ Saved cookies for future use.
+2025-07-10 23:22:10,886 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=f64555d2-e77d-40a2-be14-0e8ecec178eb&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6412-N391-JCNX-32TR-00000-00&pddocid=urn%3AcontentItem%3A6412-N391-JCNX-32TR-00000-00&pdcontentcomponentid=473759&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr489&prid=f4baa7b5-66cc-4484-b994-22c36ec16765&_=1751328797898 | Length: 31621 chars
+2025-07-10 23:22:11,000 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=672ad303-c842-4966-a6d1-cc17fe4e1816&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A62G6-GW81-DXMS-8269-00000-00&pddocid=urn%3AcontentItem%3A62G6-GW81-DXMS-8269-00000-00&pdcontentcomponentid=404625&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr120&prid=bb78bd4f-1d45-4b4d-a110-18b2d182ce64&_=1751305073199 | Length: 3600 chars
+2025-07-10 23:22:11,259 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=4487e72d-c751-4d77-9aba-edcfd50c8a6e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A635K-CYJ1-JDJN-62PB-00000-00&pddocid=urn%3AcontentItem%3A635K-CYJ1-JDJN-62PB-00000-00&pdcontentcomponentid=407847&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr121&prid=bb78bd4f-1d45-4b4d-a110-18b2d182ce64&_=1751305141125 | Length: 4446 chars
+2025-07-10 23:22:11,264 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=6b256526-8754-443f-88d3-8ed6da6cde0e&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A640J-9071-JC14-403J-00000-00&pddocid=urn%3AcontentItem%3A640J-9071-JC14-403J-00000-00&pdcontentcomponentid=438157&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr122&prid=bb78bd4f-1d45-4b4d-a110-18b2d182ce64&_=1751305204994 | Length: 3884 chars
+2025-07-10 23:22:11,265 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=f8079743-b5f5-4df1-8f2a-85163c80e1d1&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A616Y-3WG1-DY93-M08X-00000-00&pddocid=urn%3AcontentItem%3A616Y-3WG1-DY93-M08X-00000-00&pdcontentcomponentid=10903&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr249&prid=4db4e466-d0a9-4d35-8ec6-c975dc4f6db7&_=1751312942679 | Length: 5992 chars
+2025-07-10 23:22:11,268 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=967e8da0-01cf-4ef1-aa3c-f2d50de27c58&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6377-PJ51-F12F-F3P2-00000-00&pddocid=urn%3AcontentItem%3A6377-PJ51-F12F-F3P2-00000-00&pdcontentcomponentid=427616&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr250&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313076022 | Length: 3934 chars
+2025-07-10 23:22:11,269 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=de665065-f61f-4b06-b05a-9cfb32198373&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6188-HN51-JBKR-G0FY-00000-00&pddocid=urn%3AcontentItem%3A6188-HN51-JBKR-G0FY-00000-00&pdcontentcomponentid=10882&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr252&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313209915 | Length: 6835 chars
+2025-07-10 23:22:11,271 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=61b51e21-ab4d-4515-9d00-cd4a08977fb4&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6189-H771-JBKR-G2CT-00000-00&pddocid=urn%3AcontentItem%3A6189-H771-JBKR-G2CT-00000-00&pdcontentcomponentid=10882&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr253&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313333650 | Length: 6713 chars
+2025-07-10 23:22:11,277 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=94c175b4-7fd4-4961-a0b7-edbdbb423cdf&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A61F5-7NN1-JCNX-34B2-00000-00&pddocid=urn%3AcontentItem%3A61F5-7NN1-JCNX-34B2-00000-00&pdcontentcomponentid=300954&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr257&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313474157 | Length: 7656 chars
+2025-07-10 23:22:11,280 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=d0e1ddc1-4e48-430d-b665-9ee233ed3832&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A618G-MG41-JBSS-S1DB-00000-00&pddocid=urn%3AcontentItem%3A618G-MG41-JBSS-S1DB-00000-00&pdcontentcomponentid=385157&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr258&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313597224 | Length: 7583 chars
+2025-07-10 23:22:11,404 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=bd71af6e-8110-48db-ba08-54cb7a9a46a5&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A61G7-8521-JBJ4-20SS-00000-00&pddocid=urn%3AcontentItem%3A61G7-8521-JBJ4-20SS-00000-00&pdcontentcomponentid=361816&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr259&prid=05699f92-7c4b-46e2-92c0-a3f71e388bc5&_=1751313721340 | Length: 9602 chars
+2025-07-10 23:22:11,408 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=42bbf6c9-3edc-4b81-85c6-37ea9c3c9608&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A631G-0P71-JBV1-X3J1-00000-00&pddocid=urn%3AcontentItem%3A631G-0P71-JBV1-X3J1-00000-00&pdcontentcomponentid=10903&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr260&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751313869439 | Length: 2664 chars
+2025-07-10 23:22:11,409 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=ff4370f3-95c1-4f88-84a7-e288756b0029&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A65JX-V5C1-DYRV-31T1-00000-00&pddocid=urn%3AcontentItem%3A65JX-V5C1-DYRV-31T1-00000-00&pdcontentcomponentid=10962&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr261&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314002884 | Length: 13062 chars
+2025-07-10 23:22:11,414 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=9cc315bb-1a3c-44ec-bd7e-c10d53749131&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6BWH-X2Y1-JDJN-616W-00000-00&pddocid=urn%3AcontentItem%3A6BWH-X2Y1-JDJN-616W-00000-00&pdcontentcomponentid=486611&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr262&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314137922 | Length: 2866 chars
+2025-07-10 23:22:11,420 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=22944e03-8240-495a-868c-7db884328f91&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A66SD-B121-JCG7-817S-00000-00&pddocid=urn%3AcontentItem%3A66SD-B121-JCG7-817S-00000-00&pdcontentcomponentid=443607&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr263&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314262458 | Length: 5290 chars
+2025-07-10 23:22:11,422 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=064b83ae-08f1-4953-8394-4b7369986ad7&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6029-YY01-DYRV-30R4-00000-00&pddocid=urn%3AcontentItem%3A6029-YY01-DYRV-30R4-00000-00&pdcontentcomponentid=10962&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr264&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314396631 | Length: 8150 chars
+2025-07-10 23:22:11,425 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=919998ff-25ba-44e3-b1d2-e1e040df248b&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A631W-M5X1-DYTH-G4T5-00000-00&pddocid=urn%3AcontentItem%3A631W-M5X1-DYTH-G4T5-00000-00&pdcontentcomponentid=8058&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr265&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314537158 | Length: 7860 chars
+2025-07-10 23:22:11,484 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=8d40237d-5ff4-4fec-8dbc-04e6d8d6bb52&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6913-2VR1-F11P-X0VM-00000-00&pddocid=urn%3AcontentItem%3A6913-2VR1-F11P-X0VM-00000-00&pdcontentcomponentid=486611&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr266&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314715110 | Length: 2980 chars
+2025-07-10 23:22:11,493 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=e1efe108-b28d-4b0d-a412-25586abd8c0b&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A631B-8N41-DY93-M344-00000-00&pddocid=urn%3AcontentItem%3A631B-8N41-DY93-M344-00000-00&pdcontentcomponentid=10903&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr267&prid=1bf155ef-a905-484c-8e42-caca41c8f362&_=1751314901197 | Length: 5924 chars
+2025-07-10 23:22:11,499 - INFO - ✅ Updated content for URL: https://advance.lexis.com/document/teaserdocument/?pdmfid=1519360&crid=7602c3bd-661b-4d76-9c60-f07f83937aea&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6FF0-TM23-S1XJ-00SD-00000-00&pddocid=urn%3AcontentItem%3A6FF0-TM23-S1XJ-00SD-00000-00&pdcontentcomponentid=468581&pdteaserkey=h1&pditab=allpods&ecomp=hc-yk&earg=sr686&prid=f070fcc8-a436-4200-9c70-9e77a1b48d7c&_=1751280331566 | Length: 7650 chars
+2025-07-10 23:22:12,925 - INFO - 🛑 Driver session ended.
