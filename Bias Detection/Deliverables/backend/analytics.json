@@ -1,0 +1,47 @@
+{
+  "total_predictions": 16,
+  "bias_count": 5,
+  "no_bias_count": 3,
+  "logs": [
+    {
+      "timestamp": "2025-08-25T20:55:25.060287+00:00",
+      "prediction_agreement": true,
+      "cosine_similarity": 0.767073929309845
+    },
+    {
+      "timestamp": "2025-08-25T20:57:32.117260+00:00",
+      "prediction_agreement": true,
+      "cosine_similarity": 0.37603095173835754
+    },
+    {
+      "timestamp": "2025-08-25T21:10:55.974736+00:00",
+      "prediction_agreement": true,
+      "cosine_similarity": 0.37603095173835754
+    },
+    {
+      "timestamp": "2025-08-25T21:17:52.865487+00:00",
+      "prediction_agreement": true,
+      "cosine_similarity": 0.37603095173835754
+    },
+    {
+      "timestamp": "2025-08-25T21:18:02.843307+00:00",
+      "prediction_agreement": true,
+      "cosine_similarity": 0.37603095173835754
+    },
+    {
+      "timestamp": "2025-09-09T12:56:52.089076+00:00",
+      "prediction_agreement": false,
+      "cosine_similarity": 0.726368248462677
+    },
+    {
+      "timestamp": "2025-09-09T12:56:54.446707+00:00",
+      "prediction_agreement": false,
+      "cosine_similarity": 0.726368248462677
+    },
+    {
+      "timestamp": "2025-09-09T12:59:00.809443+00:00",
+      "prediction_agreement": false,
+      "cosine_similarity": 0.6186147928237915
+    }
+  ]
+}
